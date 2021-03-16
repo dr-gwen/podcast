@@ -1,63 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
+    <title>Manuscripted</title>
+    <googleplay:author>Gwendolyn Rehrig</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    <itunes:category text="Technology" />
+    <rawvoice:location>USA</rawvoice:location>
+    <rawvoice:frequency>Periodic</rawvoice:frequency>
+    <author>Gwendolyn Rehrig</author>
+    <itunes:author>Gwendolyn Rehrig</itunes:author>
+    <itunes:email>glrehrig@ucdavis.edu</itunes:email>
+    <itunes:category text="Science" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
+      <url>https://dr-gwen.github.io/podcast/img/icon.jpg</url>
+      <title>Manuscripted</title>
+      <link>https://dr-gwen.github.io/podcast/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:name>Gwendolyn Rehrig</itunes:name>
+      <itunes:email>glrehrig@ucdavis.edu</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <itunes:keywords>science,scripted,research</itunes:keywords>
+    <copyright>Gwendolyn Rehrig 2021</copyright>
+    <description>Peer-reviewed Publications in Spoken Form</description>
+    <googleplay:image href="https://dr-gwen.github.io/podcast/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <pubDate>Tues, 16 Mar 2021 13:00:00 PDT</pubDate>
+    <link>https://dr-gwen.github.io/podcast/feed.xml</link>
+    <itunes:image href="https://dr-gwen.github.io/podcast/img/icon.jpg" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <author>Gwendolyn Rehrig</author>
+      <itunes:author>Gwendolyn Rehrig</itunes:author>
+      <title>When scenes speak louder than words</title>
+      <pubDate>Tues, 16 Mar 2021 13:00:00 GMT</pubDate>
+      <enclosure url="https://dr-gwen.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
+When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention. 
+Manuscript authors: Gwendolyn Rehrig, Taylor R. Hayes, John M. Henderson, & Fernadna Ferreira
+Read aloud by the first author.
+        
+Published manuscript: https://link.springer.com/article/10.3758/s13421-020-01050-4
+        DOI: doi:10.3758/s13421-020-01050-4
+Preprint: https://psyarxiv.com/3h7au
+Reference: Rehrig, G., Hayes, T. R., Henderson, J. M., & Ferreira, F. (2020). When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention. Memory & Cognition, 48(7), 1181-1195.
+        
         </description>
     </item>
   </channel>
