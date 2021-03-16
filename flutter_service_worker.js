@@ -4,8 +4,6 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "feed.xml": "163ae78545506f2e542a6cf097ec7607",
 "assets/NOTICES": "34ea86baf0d89f88498f7675e6a27674",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -13,14 +11,15 @@ const RESOURCES = {
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
+"audio/01%20-%20Manuscripted%20-%20When%20scenes%20speak%20louder%20than%20words.mp3": "b4614ba8fe73aab0c7d6671ce0a5f5cf",
+"audio/00%20-%20Manuscripted%20-%20Intro.mp3": "a0dc0f442b257fd1607a5ac59514ac2d",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
 "/": "2dfdade837632d9630a6ca0d4a420179",
 "main.dart.js": "83943554013effa7d8897a948d6994a2",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
-"img/icon.jpg": "d01746aecd3394d8c937a0454c3d2971"
+"img/icon.jpg": "4e6a16b51785af2fc5daa83f68302c82"
 };
 
 // The application shell files that are downloaded before a service worker can
