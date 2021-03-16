@@ -32,23 +32,40 @@
       <author>Gwendolyn Rehrig</author>
       <itunes:author>Gwendolyn Rehrig</itunes:author>
       <title>When scenes speak louder than words</title>
+      <pubDate>Tues, 16 Mar 2021 21:48:00 GMT</pubDate>
+      <enclosure url="https://dr-gwen.github.io/podcast-player/audio/00 - Manuscripted - Intro.mp3" type="audio/mpeg" length="943516" />
+      <itunes:duration>01:13</itunes:duration>
+      <guid isPermaLink="false">manuscripted00</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+A brief introduction to Manuscripted. 
+        
+Transcript:
+        Welcome to Manuscripted, the podcast that... isn't really a podcast, in that it's not intended as entertainment, per se. Each episode is the spoken version of a peer-reviewed manuscript. The intention is to preserve as much of the manuscript as possible while presenting the material in a listenable format. Listenable does not mean entertaining: in keeping with the premise, each episode will be comprised entirely of read speech, and the content being read is technical in nature. It is not intended for a general audience. Indeed, the precise language that makes experimental work especially clear and replicable is often quite dry. So, listenable here specifically means that the work is being presented in auditory form with only minor changes. For example, in-text citations and statistics are omitted as these are tedious to rattle off in speech, and descriptions of the most important parts of each figure are included. The purpose of this disclaimer is not to dissuade anyone from listening, but only to make sure anyone who does decide to listen understands what they're getting into. You will find links to the published manuscript, as well as any publicly available supporting documents, if applicable, in the show notes for each episode. Thanks for listening and learning!
+        
+        </description>
+    </item>
+    <item>
+      <author>Gwendolyn Rehrig</author>
+      <itunes:author>Gwendolyn Rehrig</itunes:author>
+      <title>When scenes speak louder than words</title>
       <pubDate>Tues, 16 Mar 2021 13:00:00 GMT</pubDate>
-      <enclosure url="https://dr-gwen.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://dr-gwen.github.io/podcast-player/audio/01 - Manuscripted - When scenes speak louder than words.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention. 
-Manuscript authors: Gwendolyn Rehrig, Taylor R. Hayes, John M. Henderson, and Fernanda Ferreira
-Read aloud by the first author.
-        
-Published manuscript: https://link.springer.com/article/10.3758/s13421-020-01050-4
-        DOI: doi:10.3758/s13421-020-01050-4
-Preprint: https://psyarxiv.com/3h7au
-Supplemental material: https://osf.io/8mbyv/
-Citation: Rehrig, G., Hayes, T. R., Henderson, J. M., Ferreira, F. (2020). When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention. Memory & Cognition, 48(7), 1181-1195.
-        
-        </description>
+      When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention. 
+      Manuscript authors: Gwendolyn Rehrig, Taylor R. Hayes, John M. Henderson, and Fernanda Ferreira
+      Read aloud by the first author.
+
+      Published manuscript: https://link.springer.com/article/10.3758/s13421-020-01050-4
+              DOI: doi:10.3758/s13421-020-01050-4
+      Preprint: https://psyarxiv.com/3h7au
+      Supplemental material: https://osf.io/8mbyv/
+      Citation: Rehrig, G., Hayes, T. R., Henderson, J. M., Ferreira, F. (2020). When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention. Memory & Cognition, 48(7), 1181-1195.
+
+      </description>
     </item>
   </channel>
 </rss>
