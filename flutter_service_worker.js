@@ -6,7 +6,7 @@ const RESOURCES = {
   "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"feed.xml": "f7a50c5ea47376da1604880592cd6faf",
+"feed.xml": "b0ccc04467c5d27020915f50f8183295",
 "assets/NOTICES": "34ea86baf0d89f88498f7675e6a27674",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/AssetManifest.json": "0d266ffbe90dae02458487c9d33b7373",
