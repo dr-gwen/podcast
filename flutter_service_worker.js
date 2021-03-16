@@ -16,7 +16,7 @@ const RESOURCES = {
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
 "/": "2dfdade837632d9630a6ca0d4a420179",
-"main.dart.js": "dd13cd760bee20346f0c49f598c1b6c5",
+"main.dart.js": "83943554013effa7d8897a948d6994a2",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
