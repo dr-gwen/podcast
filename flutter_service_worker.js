@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"audio/01-Manuscripted-WhenScenesSpeakLouderThanWords.mp3": "a7339081a7c0c6dc76880793be37804e",
+"audio/01-Manuscripted-WhenScenesSpeakLouderThanWords.mp3": "7e4e3c29e435a6c1114800826cb32814",
 "audio/00-Manuscripted-Intro.mp3": "a0dc0f442b257fd1607a5ac59514ac2d",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
 "/": "2dfdade837632d9630a6ca0d4a420179",
