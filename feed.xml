@@ -33,7 +33,7 @@
       <itunes:author>Gwendolyn Rehrig</itunes:author>
       <title>Introduction to Manuscripted</title>
       <pubDate>Tues, 16 Mar 2021 21:48:00 GMT</pubDate>
-      <enclosure url="https://dr-gwen.github.io/podcast-player/audio/00 - Manuscripted - Intro.mp3" type="audio/mpeg" length="943516" />
+      <enclosure url="https://dr-gwen.github.io/podcast/audio/00 - Manuscripted - Intro.mp3" type="audio/mpeg" length="943516" />
       <itunes:duration>01:13</itunes:duration>
       <guid isPermaLink="false">manuscripted00</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -46,13 +46,12 @@ A brief introduction to Manuscripted.
         ]]>
         </description>
     </item>
-    <!--
     <item>
       <author>Gwendolyn Rehrig</author>
       <itunes:author>Gwendolyn Rehrig</itunes:author>
       <title>When scenes speak louder than words</title>
       <pubDate>Tues, 16 Mar 2021 22:27:00 GMT</pubDate>
-      <enclosure url="https://dr-gwen.github.io/podcast-player/audio/01 - Manuscripted - When scenes speak louder than words.mp3" type="audio/mpeg" length="39657419" />
+      <enclosure url="https://dr-gwen.github.io/podcast/audio/01 - Manuscripted - When scenes speak louder than words.mp3" type="audio/mpeg" length="39657419" />
       <itunes:duration>53:27</itunes:duration>
       <guid isPermaLink="false">manuscripted01</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -71,6 +70,5 @@ A brief introduction to Manuscripted.
       ]]>
       </description>
     </item>
-  -->
   </channel>
 </rss>
