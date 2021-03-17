@@ -46,6 +46,7 @@ A brief introduction to Manuscripted.
         ]]>
         </description>
     </item>
+    <!--
     <item>
       <author>Gwendolyn Rehrig</author>
       <itunes:author>Gwendolyn Rehrig</itunes:author>
@@ -70,5 +71,6 @@ A brief introduction to Manuscripted.
       ]]>
       </description>
     </item>
+  -->
   </channel>
 </rss>
