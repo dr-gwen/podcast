@@ -8,7 +8,7 @@
     <rawvoice:frequency>Periodic</rawvoice:frequency>
     <author>Gwendolyn Rehrig</author>
     <itunes:author>Gwendolyn Rehrig</itunes:author>
-    <itunes:email>glrehrig@ucdavis.edu</itunes:email>
+    <itunes:email>manuscriptedpod@gmail.com</itunes:email>
     <itunes:category text="Science" />
     <image>
       <url>https://dr-gwen.github.io/podcast/img/icon.jpg</url>
@@ -16,8 +16,8 @@
       <link>https://dr-gwen.github.io/podcast/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Gwendolyn Rehrig</itunes:name>
-      <itunes:email>glrehrig@ucdavis.edu</itunes:email>
+      <itunes:name>Manuscripted</itunes:name>
+      <itunes:email>manuscriptedpod@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>science,scripted,research</itunes:keywords>
     <copyright>Gwendolyn Rehrig 2021</copyright>
